@@ -1,4 +1,4 @@
-# temperature_conversion_app
+# temperature_converter_app
 
 A new Flutter project.
 
